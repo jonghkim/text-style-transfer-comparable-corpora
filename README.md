@@ -24,7 +24,7 @@ python -m bin.seq2seq_adv_style_model_test
 - [Theano Implementaion of "Style Transfer in Text: Exploration and Evaluation"](https://github.com/jonghkim/text-style-transfer-comparable-corpora)
 
 ## For Citation
-
+```
 @misc{jonghkim,
   author = {Jongho Kim},
   title = {text-style-transfer-comparable-corpora},
@@ -33,3 +33,4 @@ python -m bin.seq2seq_adv_style_model_test
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/jonghkim/financial-time-series-prediction-v1}},
 }
+```
