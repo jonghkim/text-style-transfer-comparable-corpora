@@ -1,7 +1,6 @@
 notebooks/*
 *__pycache__*
 *.pyc
-**.txt
 **.csv
 **.pkl
 **.pickle
