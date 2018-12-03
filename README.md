@@ -2,28 +2,28 @@
 
 Keras implementation of [Style Transfer in Text: Exploration and Evaluation (AAAI, 2018)](https://arxiv.org/abs/1711.06861)
 
-# Requirements
+## Requirements
 - Python2
 - Keras 2.1.6
 - Tensorflow 1.5.0
 
-# Data
+## Data
 - For adversarial style embedding model: Sentiment Review Dataset
     - toy_data is already included in the repository
     - get the original data at: http://jmcauley.ucsd.edu/data/amazon/links.html
 
-# Usage
+## Usage
 ~~~
 # For seq2seq auto-encoder model with adversarial network and style embedding: Solve Style Transfer Problem
 python -m bin.seq2seq_adv_style_model_train
 python -m bin.seq2seq_adv_style_model_test
 ~~~
 
-# References
+## References
 - [Style Transfer in Text: Exploration and Evaluation (AAAI, 2018)](https://arxiv.org/abs/1711.06861)
 - [Theano Implementaion of "Style Transfer in Text: Exploration and Evaluation"](https://github.com/jonghkim/text-style-transfer-comparable-corpora)
 
-# For Citation
+## For Citation
 
 @misc{jonghkim,
   author = {Jongho Kim},
