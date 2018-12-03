@@ -1,6 +1,6 @@
 # text-style-transfer-comparable-corpora
 
-Keras implementation of [Style Transfer in Text: Exploration and Evaluation (AAAI, 2018)](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17015)
+Keras implementation of [Style Transfer in Text: Exploration and Evaluation (AAAI, 2018)](https://arxiv.org/abs/1711.06861)
 
 # Requirements
 - Python2
@@ -20,8 +20,8 @@ python -m bin.seq2seq_adv_style_model_test
 ~~~
 
 # References
-- [arXiv: Style Transfer in Text: Exploration and Evaluation](https://arxiv.org/abs/1711.06861)
-- [Theano Implementaion of "Style Transfer in Text: Exploration and Evaluation (AAAI, 2018)"](https://github.com/jonghkim/text-style-transfer-comparable-corpora)
+- [Style Transfer in Text: Exploration and Evaluation (AAAI, 2018)](https://arxiv.org/abs/1711.06861)
+- [Theano Implementaion of "Style Transfer in Text: Exploration and Evaluation"](https://github.com/jonghkim/text-style-transfer-comparable-corpora)
 
 # For Citation
 
