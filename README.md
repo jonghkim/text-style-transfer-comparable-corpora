@@ -4,6 +4,8 @@ Keras implementation of [Style Transfer in Text: Exploration and Evaluation (AAA
 
 # Requirements
 - Python2
+- Keras 2.1.6
+- Tensorflow 1.5.0
 
 # Data
 - For adversarial style embedding model: Sentiment Review Dataset
