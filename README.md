@@ -31,6 +31,6 @@ python -m bin.seq2seq_adv_style_model_test
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/jonghkim/financial-time-series-prediction-v1}},
+  howpublished = {\url{https://github.com/jonghkim/text-style-transfer-comparable-corpora}},
 }
 ```
